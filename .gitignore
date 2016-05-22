@@ -1,0 +1,6 @@
+#Vim Swap Files
+*.sw?
+
+#Elm Files
+elm-stuff
+index.html
