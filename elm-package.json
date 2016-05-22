@@ -1,0 +1,16 @@
+{
+    "version": "0.1.0",
+    "summary": "Allow support for Cryptographic Hashing in Elm.",
+    "repository": "https://github.com/iamfromspace/elm-hash.git",
+    "license": "MIT",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": [ "Hash" ],
+    "native-modules": true,
+    "dependencies": {
+        "elm-lang/core": "4.0.0 <= v < 5.0.0",
+        "elm-lang/html": "1.0.0 <= v < 2.0.0"
+    },
+    "elm-version": "0.17.0 <= v < 0.18.0"
+}
